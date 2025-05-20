@@ -12,4 +12,11 @@ A free avalable demo is available (please run main.py or main.ipynb).
 
 If you use the codes cite
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   TO DO
+If you use this code, cite:
+
+    Tizian Wenzel, Francesco Marchetti, and Emma Perracchione. 
+    "Data-driven kernel designs for optimized greedy schemes: A machine learning perspective." 
+    SIAM J. Sci. Comput., 46(1):C101–C126, 2024.
+    https://doi.org/10.1137/23M1551201.
+
+    DA COMPLETARE Feature Understanding and Sparsity Enhancement via 2-Layered kernel machines (2L-FUSE)
