@@ -10,8 +10,6 @@ A free avalable demo is available (please run main.py or main.ipynb).
 
 # Citations
 
-If you use the codes cite
-
 If you use this code, cite:
 
     Tizian Wenzel, Francesco Marchetti, and Emma Perracchione. 
