@@ -2,13 +2,6 @@
 """
 Class adopted from the folder freely available at 
 https://gitlab.mathematik.uni-stuttgart.de/pub/ians-anm/paper-2023-data-driven-kernel-designs.
-
-Reference:
-    Tizian Wenzel, Francesco Marchetti, and Emma Perracchione. 
-    "Data-driven kernel designs for optimized greedy schemes: A machine learning perspective." 
-    SIAM J. Sci. Comput., 46(1):C101–C126, 2024.
-    https://doi.org/10.1137/23M1551201.
-
 """
 
 import torch
