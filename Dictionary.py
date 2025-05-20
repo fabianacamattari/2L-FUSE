@@ -1,10 +1,7 @@
-
-
 """
 Classes and functions adopted with modifications from the folder freely available at 
 https://gitlab.mathematik.uni-stuttgart.de/pub/ians-anm/paper-2023-data-driven-kernel-designs.
 """
-
 
 class example_dictionary():
 
