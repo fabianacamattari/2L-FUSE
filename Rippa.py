@@ -1,5 +1,5 @@
 """
-CITARE MARCHETTI RIPPA ESTESO (repository+paper)
+This code is based on the Matlab repository https://github.com/cesc14/RippaExtCV provided by Francesco Marchetti
 """
 
 import torch 
